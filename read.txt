@@ -2,11 +2,6 @@ hello world;
 你好啊，git
 创建了一个新分支dev
 
-<<<<<<< HEAD
-现在master上提交
+现在在b1分支上做修改
 
-现在b1上提交
-
-=======
-在master上修改
->>>>>>> master
+现在在master上做修改
