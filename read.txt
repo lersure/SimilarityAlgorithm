@@ -2,5 +2,4 @@ hello world;
 你好啊，git
 创建了一个新分支dev
 
-
-在b1分支上修改
+在master上修改
