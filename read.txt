@@ -2,5 +2,4 @@ hello world;
 你好啊，git
 创建了一个新分支dev
 
-现在master上提交
 
