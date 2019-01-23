@@ -2,7 +2,5 @@ hello world;
 你好啊，git
 创建了一个新分支dev
 
-第二次修改（这是在master分支上）
-
-第二次修改
+现在master上提交
 
